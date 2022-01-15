@@ -3,3 +3,5 @@
 - Membuat Gambar Barang Yang di Pilih
 - Membuat Tampilan Login 
 - Membuat Keamanan Jaringan
+- Menambahkan Komen dan Beranda 
+- Menambahkan Database Sistem
