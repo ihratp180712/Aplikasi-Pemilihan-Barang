@@ -1,3 +1,5 @@
 - Membuat Tampilan Antar Muka
 - Membuat Algoritma Antar Muka 
 - Membuat Gambar Barang Yang di Pilih
+- Membuat Tampilan Login 
+- Membuat Keamanan Jaringan
